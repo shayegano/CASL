@@ -1,0 +1,8 @@
+environment/Arcade-Learning-Environment-Audio/ale_python_interface/libale_c.so
+environment/Arcade-Learning-Environment-Audio/ale
+environment/Arcade-Learning-Environment-Audio/build/
+environment/Gridworld-Audio/build/
+**/*.swo
+**/*.swp
+**/*.pyc
+**/*.so
