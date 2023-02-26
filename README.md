@@ -3,7 +3,7 @@
 Hybrid CPU-GPU implementation of Crossmodal Attentive Skill Learner (CASL)  
 Codebase design is based on [GA3C](https://github.com/NVlabs/GA3C/).
 
-![CASL Amidar Gameplay](https://github.com/shayegano/CASL/raw/master/misc/casl_amidar_gameplay.gif)
+![CASL Amidar Gameplay](https://github.com/shayegano/CASL/master/misc/casl_amidar_gameplay.gif)
 
 #### Paper:
 
@@ -32,7 +32,7 @@ We have added audio query support to ALE, and a pull request to the official ALE
 
 Click image to see videos of ALE-Audio in action (left shows image, right shows audio spectrogram):
 
-[![Videos of ALE-Audio](https://github.com/shayegano/CASL/raw/master/misc/ale_audio_player_screen.jpg)](https://www.youtube.com/watch?v=iaA8vFRIt3U&index=37&list=PLcLXhPlZoJmVSsYmfI2sHtDMMukBHja4L)
+[![Videos of ALE-Audio](https://github.com/shayegano/CASL/master/misc/ale_audio_player_screen.jpg)](https://www.youtube.com/watch?v=iaA8vFRIt3U&index=37&list=PLcLXhPlZoJmVSsYmfI2sHtDMMukBHja4L)
 
 #### To Run:
 Please refer to instruction in `src/tensorflow/CASL/README.md`.
